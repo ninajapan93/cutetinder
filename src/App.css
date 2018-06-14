@@ -2,12 +2,11 @@
   text-align: center;
 }
 
-
 .header {
   background-color: rgb(232, 237, 135);
   padding: 20px;
   color: white;
-}  
-
-
-
+}
+ul {
+  text-align: left;
+}
